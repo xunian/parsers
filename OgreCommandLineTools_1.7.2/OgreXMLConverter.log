@@ -1,0 +1,53 @@
+08:38:28: Creating resource group General
+08:38:28: Creating resource group Internal
+08:38:28: Creating resource group Autodetect
+08:38:28: Registering ResourceManager for type Mesh
+08:38:28: Registering ResourceManager for type Material
+08:38:28: Registering ResourceManager for type Skeleton
+08:38:28: XMLSkeletonSerializer writing  skeleton data to C:\Users\Administrator\Desktop\OgreCommandLineTools_1.7.2\Run.SKELETON.xml...
+08:38:28: Populating DOM...
+08:38:28: Exporting bones..
+08:38:28: There are 34 bones.
+08:38:28:    Exporting Bone number 0
+08:38:28:    Exporting Bone number 1
+08:38:28:    Exporting Bone number 2
+08:38:28:    Exporting Bone number 3
+08:38:28:    Exporting Bone number 4
+08:38:28:    Exporting Bone number 5
+08:38:28:    Exporting Bone number 6
+08:38:28:    Exporting Bone number 7
+08:38:28:    Exporting Bone number 8
+08:38:28:    Exporting Bone number 9
+08:38:28:    Exporting Bone number 10
+08:38:28:    Exporting Bone number 11
+08:38:28:    Exporting Bone number 12
+08:38:28:    Exporting Bone number 13
+08:38:28:    Exporting Bone number 14
+08:38:28:    Exporting Bone number 15
+08:38:28:    Exporting Bone number 16
+08:38:28:    Exporting Bone number 17
+08:38:28:    Exporting Bone number 18
+08:38:28:    Exporting Bone number 19
+08:38:28:    Exporting Bone number 20
+08:38:28:    Exporting Bone number 21
+08:38:28:    Exporting Bone number 22
+08:38:28:    Exporting Bone number 23
+08:38:28:    Exporting Bone number 24
+08:38:28:    Exporting Bone number 25
+08:38:29:    Exporting Bone number 26
+08:38:29:    Exporting Bone number 27
+08:38:29:    Exporting Bone number 28
+08:38:29:    Exporting Bone number 29
+08:38:29:    Exporting Bone number 30
+08:38:29:    Exporting Bone number 31
+08:38:29:    Exporting Bone number 32
+08:38:29:    Exporting Bone number 33
+08:38:29: Bones exported.
+08:38:29: Exporting animations, count=1
+08:38:29: Exporting animation: Run
+08:38:29: Animation exported.
+08:38:29: DOM populated, writing XML file..
+08:38:29: XMLSkeletonSerializer export successful.
+08:38:29: Unregistering ResourceManager for type Skeleton
+08:38:29: Unregistering ResourceManager for type Material
+08:38:29: Unregistering ResourceManager for type Mesh

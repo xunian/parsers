@@ -1,0 +1,42 @@
+material Standard_24
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.588 0.588 0.588
+			diffuse 0.588 0.588 0.588
+			specular 0 0 0 0
+			emissive 0.3 0.3 0.3
+			texture_unit
+			{
+				texture BOSS_Ember_colossus.dds
+			}
+		}
+		pass
+		{
+			lighting off
+			scene_blend add
+			ambient 0 0 0
+			diffuse 0 0 0
+			emissive 0.4 0.4 0.4
+			texture_unit
+			{
+				cubic_texture envmap.dds combinedUVW
+				env_map cubic_reflection
+				env_map tex_address_mode clamp
+			}
+			texture_unit
+			{
+				texture spec.dds
+				colour_op_ex modulate src_texture src_current
+			}
+			texture_unit
+			{
+				texture illum.dds
+				colour_op add
+			}
+		}
+
+	}
+}
